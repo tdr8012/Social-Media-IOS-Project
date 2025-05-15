@@ -45,44 +45,6 @@ A modern iOS social media application built with Swift and Firebase for authenti
 
 5. **Build and run**
 
-## Project Structure
 
-Social-Media-IOS-Project/
-│
-├── Service/
-│
-├── SocialMedia/
-│ ├── Assets.xcassets/
-│ ├── Model/
-│ │ ├── Comment.swift
-│ │ ├── Post.swift
-│ │ ├── Product.swift
-│ │ ├── StoryModel.swift
-│ │ └── User.swift
-│ ├── Preview Content/
-│ ├── View/
-│ │ ├── Comment/
-│ │ ├── Post/
-│ │ ├── Stories/
-│ │ ├── FillNameView.swift
-│ │ ├── LoginView.swift
-│ │ ├── ProfileView.swift
-│ │ └── SettingsView.swift
-│ ├── ViewModel/
-│ ├── ContentView.swift
-│ ├── FirebaseCommentManager.swift
-│ ├── FirebasePostManager.swift
-│ ├── FirestoreService.swift
-│ ├── FirestoreStoryManager.swift
-│ ├── HomeScreen.swift
-│ └── SocialMediaApp.swift
-│
-├── SocialMedia.xcodeproj/
-│
-├── SocialMediaTests/
-│
-├── SocialMediaUITests/
-│
-├── Utils/
-│
-└── .DS_Store
+
+
