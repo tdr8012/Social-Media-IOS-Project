@@ -61,7 +61,6 @@ This project accelerates social media app development by providing core function
 | 📄 | **Documentation** | <ul><li>README provides project overview, setup instructions, and feature list</li><li>In-code comments for key classes and functions</li></ul> |
 | 🔌 | **Integrations**  | <ul><li>Firebase SDK for authentication, database, and analytics</li><li>Third-party libraries via Swift Package Manager (e.g., Kingfisher for image caching, SnapKit for layout)</li></ul> |
 | 🧩 | **Modularity**    | <ul><li>Features divided into separate modules: Authentication, Feed, Profile</li><li>Uses protocols and dependency injection for testability and flexibility</li></ul> |
-| 🧪 | **Testing**       | <ul><li>Unit tests for ViewModels and services using XCTest</li><li>UI tests for key user flows with XCUITest</li></ul> |
 | ⚡️  | **Performance**   | <ul><li>Asynchronous image loading with caching</li><li>Lazy loading of feed items</li></ul> |
 | 🛡️ | **Security**      | <ul><li>Secure storage of tokens in Keychain</li><li>Input validation and sanitization</li></ul> |
 | 📦 | **Dependencies**  | <ul><li>Uses Swift Package Manager for dependency management</li><li>Includes packages like Kingfisher, SnapKit, Firebase SDKs</li></ul> |
