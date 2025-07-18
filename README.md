@@ -49,7 +49,6 @@ This project accelerates social media app development by providing core function
 - 🔥 **Real-Time Firebase Integration:** Dynamic content updates and synchronization.
 - 🎨 **SwiftUI Interface:** Responsive, modern UI with seamless user interactions.
 - 🔑 **Authentication & Onboarding:** Secure login, registration, and profile management.
-- 🧪 **Built-in Testing Framework:** Ensures reliability and smooth maintenance.
 
 ---
 
